@@ -2,7 +2,10 @@
   "name": "padtocolumn",
   "displayName": "Pad to Column",
   "description": "Pads a line with the given character(s) up to a certain column.",
-  "version": "1.0",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/abluescarab/vscode_pad-to-column"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
