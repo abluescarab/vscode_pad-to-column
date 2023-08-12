@@ -6,6 +6,7 @@
   "repository": {
     "url": "https://github.com/abluescarab/vscode_pad-to-column"
   },
+  "publisher": "abluescarab",
   "engines": {
     "vscode": "^1.81.0"
   },
